@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning MLLM
 - 🔭 I’m currently working on Zhongguancun Academy
-- 📫 How to reach me: liuyi@stu.cqu.edu.cn/liu979935@gmail.com/s-ly@bjzgca.edu.cn/2025102110061@whu.edu.cn
+- 📫 How to reach me: liu979935@gmail.com/s-ly@bjzgca.edu.cn/2025102110061@whu.edu.cn
   
 <!--
 **XY-boy/XY-boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
